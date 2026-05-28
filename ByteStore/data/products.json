@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "platform": "PC",
+        "price": 59.99,
+        "image": "..\/assets\/elden_ring.webp",
+        "stock": 79
+    },
+    {
+        "id": 2,
+        "title": "Forza Horizon 5",
+        "genre": "Carreras",
+        "platform": "Xbox",
+        "price": 49.99,
+        "image": "..\/assets\/forza_horizon_5.webp",
+        "stock": 60
+    },
+    {
+        "id": 3,
+        "title": "The Last of Us Part I",
+        "genre": "Accion",
+        "platform": "PlayStation",
+        "price": 54.99,
+        "image": "..\/assets\/the_last_of_part1.webp",
+        "stock": 45
+    },
+    {
+        "id": 4,
+        "title": "Hades",
+        "genre": "Roguelike",
+        "platform": "PC",
+        "price": 24.99,
+        "image": "..\/assets\/hades.webp",
+        "stock": 100
+    },
+    {
+        "id": 5,
+        "title": "FC 26",
+        "genre": "Deportes",
+        "platform": "PC",
+        "price": 39.99,
+        "image": "..\/assets\/ea_sports_fc_26.webp",
+        "stock": 70
+    },
+    {
+        "id": 6,
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "platform": "PC",
+        "price": 44.99,
+        "image": "..\/assets\/cyberpunk.webp",
+        "stock": 90
+    },
+    {
+        "id": 7,
+        "title": "Mario Kart 8 Deluxe",
+        "genre": "Carreras",
+        "platform": "Nintendo",
+        "price": 59.99,
+        "image": "..\/assets\/maria_8_deluxe.webp",
+        "stock": 55
+    },
+    {
+        "id": 8,
+        "title": "Zelda: Tears of the Kingdom",
+        "genre": "Aventura",
+        "platform": "Nintendo",
+        "price": 69.99,
+        "image": "..\/assets\/zelda.webp",
+        "stock": 40
+    },
+    {
+        "id": 9,
+        "title": "Resident Evil 4 Remake",
+        "genre": "Terror",
+        "platform": "PlayStation",
+        "price": 49.99,
+        "image": "..\/assets\/resident_evil_4_remake.webp",
+        "stock": 50
+    },
+    {
+        "id": 10,
+        "title": "Hollow Knight",
+        "genre": "Metroidvania",
+        "platform": "PC",
+        "price": 14.99,
+        "image": "..\/assets\/hollow_knight.webp",
+        "stock": 120
+    },
+    {
+        "id": 11,
+        "title": "Street Fighter 6",
+        "genre": "Pelea",
+        "platform": "PlayStation",
+        "price": 44.99,
+        "image": "..\/assets\/street_fighter.webp",
+        "stock": 65
+    },
+    {
+        "id": 12,
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "platform": "Multi",
+        "price": 29.99,
+        "image": "..\/assets\/minecraft.webp",
+        "stock": 200
+    }
+]
